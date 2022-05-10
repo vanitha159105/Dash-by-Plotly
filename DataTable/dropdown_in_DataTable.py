@@ -1,5 +1,5 @@
 #code taken from https://dash.plot.ly/datatable/dropdowns
-import dash #(version 1.9.1) pip install dash==1.9.1
+
 import dash_html_components as html
 import dash_table
 import pandas as pd
